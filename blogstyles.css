@@ -181,6 +181,7 @@ input[type="button"]:active .cat {
   margin-top: 2%;
   margin-bottom: 0.6%;
   padding-bottom: 2px;
+  padding-right:20px;
 }
 data-title {
   font-size: 42px;
