@@ -268,10 +268,6 @@ data-content a:active {
   opacity: 1;
   margin-left: 0px; /* Adjust the spacing between text and emoji */
 }
-img {
-  width: 70%;
-  height: auto;
-}
 
 .aboutpad {
   font-size: 16px;
