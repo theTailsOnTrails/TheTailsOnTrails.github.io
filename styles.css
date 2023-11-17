@@ -187,6 +187,9 @@
             margin-bottom: .6%;
             padding-bottom: 2px;
         }
+        #blog-container-nested img {
+            display: inline-flex;
+        }
         data-title {
             font-size: 42px;
             text-align: left;
