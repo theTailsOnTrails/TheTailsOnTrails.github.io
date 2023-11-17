@@ -209,7 +209,10 @@ data-content a:active {
   font-weight: 700;
   text-transform: uppercase;
 }
-
+#date {
+    font-size: 10px;
+    font-style: italic;
+}
 .btn-shine {
   background: linear-gradient(90deg, #000, #fff, #000);
   letter-spacing: 2px;
