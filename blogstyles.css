@@ -288,3 +288,7 @@ data-content a:active {
   width: auto;
   height: auto;
 }
+blog-image {
+width: 35%;
+height: auto;
+}
