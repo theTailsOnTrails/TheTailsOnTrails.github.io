@@ -209,6 +209,11 @@ data-content a:active {
   font-weight: 700;
   text-transform: uppercase;
 }
+data-content img {
+        width: 35%;
+        height: auto;
+}
+
 #date {
     font-size: 10px;
     font-style: italic;
@@ -287,8 +292,4 @@ data-content a:active {
 .barcodes {
   width: auto;
   height: auto;
-}
-blog-image {
-width: 35%;
-height: auto;
 }
