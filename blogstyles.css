@@ -216,6 +216,8 @@ data-content img {
 }
 
 blog-img {
+  width: 100%;
+  height: auto;
 
 }
 #date {
