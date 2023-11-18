@@ -211,12 +211,12 @@ data-content a:active {
   text-transform: uppercase;
 }
 data-content img {
-        width: 45%;
+        width: auto;
         height: auto;
 }
 
 blog-img {
-  width: 100%;
+  width: 6rem;
   height: auto;
 
 }
