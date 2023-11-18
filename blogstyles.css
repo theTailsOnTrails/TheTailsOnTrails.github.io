@@ -211,14 +211,8 @@ data-content a:active {
   text-transform: uppercase;
 }
 data-content img {
-        width: 45%;
+        width: 44%;
         height: auto;
-}
-
-blog-img {
-  width: 6rem;
-  height: auto;
-
 }
 #date {
     font-size: 10px;
