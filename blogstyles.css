@@ -181,6 +181,12 @@ input[type="button"]:active .cat {
   padding-right: 3rem;
   font-size: 12px;
 }
+#welcome, #revv a:hover{
+  text-decoration: wavy;
+  color: #009572;
+  font-weight: 700;
+  text-transform: uppercase;
+}
 data-title {
   font-size: 24px;
   text-align: left;
