@@ -227,7 +227,7 @@ data-content a:active {
   text-transform: uppercase;
 }
 data-content img {
-        width: 500px;
+        width:inherit ;
         height: auto;
 }
 #date {
@@ -314,7 +314,4 @@ hr.rounded {
   border-top: 8px solid #bbb;
   border-radius: 5px;
   
-}
-blog-image {
-  width: 500px;
 }
