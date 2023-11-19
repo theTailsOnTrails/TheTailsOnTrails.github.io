@@ -226,10 +226,6 @@ data-content a:active {
   font-weight: 700;
   text-transform: uppercase;
 }
-data-content img {
-        width: min-content ;
-        height: auto;
-}
 #date {
     font-size: 10px;
     font-style: italic;
