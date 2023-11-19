@@ -263,8 +263,9 @@ img {
   }
 
 .aboutpad {
-    font-size: 16px;
-    font-weight: lighter;
+  font-size: 16px;
+  font-weight: lighter;
+  color: white;
 }
 .aboutsubtext {
     font-size: 12px;
