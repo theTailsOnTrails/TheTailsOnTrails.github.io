@@ -164,7 +164,12 @@ input[type="button"]:active .cat {
   margin-bottom: 6%;
   padding-bottom: 2px;
   padding-right: 1rem;
-  font-size: 12px;
+}
+
+#blog-container a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
 }
 
 #welcome, #revv {
@@ -180,6 +185,30 @@ input[type="button"]:active .cat {
   margin-bottom: 0.6%;
   padding-bottom: 2px;
   padding-right: 3rem;
+}
+#revv a {
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
+
+}
+#revv a:hover {
+  text-decoration: wavy;
+  color: #009572;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+#welcome a {
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
+
+}
+#welcome a:hover {
+  text-decoration: wavy;
+  color: #009572;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 data-title {
   font-size: 24px;
@@ -197,7 +226,7 @@ data-subtext {
   font-size: 18px;
 }
 data-content ul li a {
-  font-size: 14px;
+  font-size: 12px;
   text-decoration: none;
   color: #fff;
   width: 80%;
