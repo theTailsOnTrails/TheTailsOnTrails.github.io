@@ -320,3 +320,6 @@ hr.rounded {
   border-radius: 5px;
   
 }
+blog-image {
+  width:fit-content;
+}
