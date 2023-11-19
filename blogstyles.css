@@ -164,6 +164,7 @@ input[type="button"]:active .cat {
   margin-bottom: 6%;
   padding-bottom: 2px;
   padding-right: 1rem;
+  font-size: 12px;
 }
 
 #welcome, #revv {
@@ -179,7 +180,6 @@ input[type="button"]:active .cat {
   margin-bottom: 0.6%;
   padding-bottom: 2px;
   padding-right: 3rem;
-  font-size: 12px;
 }
 data-title {
   font-size: 24px;
@@ -190,12 +190,6 @@ data-title a {
   color: white;
   font-size: 24px;
   text-decoration: none;
-}
-data-title a:hover {
-  text-decoration: wavy;
-  color: #009572;
-  font-weight: 700;
-  text-transform: uppercase;
 }
 data-subtext {
   color: #b6b6b5;
