@@ -166,7 +166,7 @@ input[type="button"]:active .cat {
   padding-right: 1rem;
 }
 
-#blog-container a {
+#blog-container #blog-container-2 a {
   color: white;
   font-size: 20px;
   text-decoration: none;
