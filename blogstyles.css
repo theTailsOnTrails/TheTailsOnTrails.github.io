@@ -214,6 +214,7 @@ data-content ul li a {
   font-size: 12px;
   text-decoration: none;
   color: #fff;
+  margin-right: 8%;
 }
 data-content a:hover {
   text-decoration: wavy;
