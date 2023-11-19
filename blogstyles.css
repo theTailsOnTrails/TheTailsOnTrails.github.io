@@ -151,7 +151,7 @@ input[type="button"]:active .cat {
   font-weight: 700;
   text-transform: uppercase;
 }
-#blog-container #blog-container-2 {
+#blog-container {
   border-width: 1px;
   color: white;
   background-color: black;
