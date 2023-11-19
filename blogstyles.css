@@ -201,9 +201,14 @@ input[type="button"]:active .cat {
   padding-right: 3rem;
 }
 data-title {
-  font-size: 36px;
+  font-size: 24px;
   text-align: left;
   color: #939393;
+}
+data-title a {
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
 }
 data-subtext {
   color: #b6b6b5;
