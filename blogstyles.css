@@ -227,7 +227,7 @@ data-content a:active {
   text-transform: uppercase;
 }
 data-content img {
-        width: auto;
+        width: 500px;
         height: auto;
 }
 #date {
