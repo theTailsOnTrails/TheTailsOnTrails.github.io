@@ -165,12 +165,32 @@ input[type="button"]:active .cat {
   padding-bottom: 2px;
   padding-right: 1rem;
 }
+#blog-container-2 {
+  border-width: 1px;
+  color: white;
+  background-color: black;
+  text-align: left;
+  padding-left: 6%;
+  padding-top: 0.2%;
+  margin-left: 2px;
+  margin-right: 1rem;
+  margin-top: 2%;
+  margin-bottom: 6%;
+  padding-bottom: 2px;
+  padding-right: 1rem;
+}
 
-#blog-container #blog-container-2 a {
+#blog-container a {
   color: white;
   font-size: 20px;
   text-decoration: none;
 }
+#blog-container-2 a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
 #blog-container-nested {
   border: none;
   border-style: none;
@@ -298,4 +318,5 @@ data-content img {
 hr.rounded {
   border-top: 8px solid #bbb;
   border-radius: 5px;
+  
 }
