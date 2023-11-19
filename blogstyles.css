@@ -191,6 +191,12 @@ data-title a {
   font-size: 24px;
   text-decoration: none;
 }
+data-title a:hover {
+  text-decoration: wavy;
+  color: #009572;
+  font-weight: 700;
+  text-transform: uppercase;
+}
 data-subtext {
   color: #b6b6b5;
   display: block;
