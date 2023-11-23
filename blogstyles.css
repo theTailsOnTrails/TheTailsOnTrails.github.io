@@ -152,6 +152,7 @@ input[type="button"]:active .cat {
   text-transform: uppercase;
 }
 #blog-container {
+  font-size: 10px;
   border: none;
   color: white;
   background-color: black;
@@ -168,7 +169,7 @@ input[type="button"]:active .cat {
 
 #blog-container a {
   color: white;
-  font-size: 20px;
+  font-size: 14px;
   text-decoration: none;
 }
 
