@@ -152,8 +152,7 @@ input[type="button"]:active .cat {
   text-transform: uppercase;
 }
 #blog-container {
-  border: white;
-  border-width: 2px;
+  border: none;
   color: white;
   background-color: black;
   text-align: left;
@@ -175,7 +174,6 @@ input[type="button"]:active .cat {
 
 #welcome {
   border: none;
-  border-style: solid;
   color: white;
   background-color: black;
   text-align: left;
@@ -189,7 +187,6 @@ input[type="button"]:active .cat {
 }
 #revv {
   border: none;
-  border-style: solid;
   color: white;
   background-color: black;
   text-align: left;
@@ -203,7 +200,6 @@ input[type="button"]:active .cat {
 }
 #serenade {
   border: none;
-  border-style: solid;
   color: white;
   background-color: black;
   text-align: left;
