@@ -174,10 +174,8 @@ input[type="button"]:active .cat {
 }
 
 #welcome {
-  border: white;
+  border: none;
   border-style: solid;
-border-width: 2px;
-
   color: white;
   background-color: black;
   text-align: left;
@@ -190,9 +188,8 @@ border-width: 2px;
   padding-right: 1rem;
 }
 #revv {
-  border: white;
+  border: none;
   border-style: solid;
-border-width: 2px;
   color: white;
   background-color: black;
   text-align: left;
@@ -205,9 +202,8 @@ border-width: 2px;
   padding-right: 1rem;
 }
 #serenade {
-  border: white;
+  border: none;
   border-style: solid;
-border-width: 2px;
   color: white;
   background-color: black;
   text-align: left;
