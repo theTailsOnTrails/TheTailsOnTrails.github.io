@@ -170,14 +170,20 @@ input[type="button"]:active .cat {
 #blog-container a {
   color: white;
   font-size: 12px;
-  text-decoration: lowercase;
+  text-transform: lowercase;
 }
 #blog-container a:hover {
-  color: white;
-  font-size: 12px;
-  text-decoration: uppercase;
+  font-size: 14px;
+  color: #009572;
+  font-weight: 700;
+  text-transform: uppercase;
 }
-
+#blog-container a:active {
+  font-size: 12px;
+  color: #009572;
+  font-weight: 700;
+  text-transform: uppercase;
+}
 
 #welcome {
   border: none;
