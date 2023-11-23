@@ -152,8 +152,8 @@ input[type="button"]:active .cat {
   text-transform: uppercase;
 }
 #blog-container {
-  border-width: 2px solid rgb(255,255,255);
-
+  border: white;
+  border-width: 2px;
   color: white;
   background-color: black;
   text-align: left;
@@ -174,8 +174,10 @@ input[type="button"]:active .cat {
 }
 
 #welcome {
-  border: none;
-  border-style: none;
+  border: white;
+  border-style: solid;
+border-width: 2px;
+
   color: white;
   background-color: black;
   text-align: left;
@@ -188,8 +190,9 @@ input[type="button"]:active .cat {
   padding-right: 1rem;
 }
 #revv {
-  border: none;
-  border-style: none;
+  border: white;
+  border-style: solid;
+border-width: 2px;
   color: white;
   background-color: black;
   text-align: left;
@@ -202,8 +205,9 @@ input[type="button"]:active .cat {
   padding-right: 1rem;
 }
 #serenade {
-  border: none;
-  border-style: none;
+  border: white;
+  border-style: solid;
+border-width: 2px;
   color: white;
   background-color: black;
   text-align: left;
