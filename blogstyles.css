@@ -137,7 +137,7 @@ input[type="button"]:active .cat {
   margin: .4vw;
 }
 #menu ul li:last-child {
-  margin-right: 0;
+  margin-right: -20;
 }
 #menu ul li a {
   text-decoration: none;
