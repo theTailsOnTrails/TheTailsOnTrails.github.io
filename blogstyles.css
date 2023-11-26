@@ -208,11 +208,11 @@ data-title a:active {
 data-subtext {
   color: #b6b6b5;
   display: block;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 data-content ul li a {
-  font-size: 14px;
+  font-size: 18px;
   text-decoration: lowercase;
   color: #ffffff;
 }
