@@ -155,7 +155,7 @@ input[type="button"]:active .cat {
   text-transform: uppercase;
 }
 #blog-container {
-  font-size: 12vw;
+  font-size: 2vw;
   border: none;
   color: white;
   background-color: black;
@@ -172,18 +172,18 @@ input[type="button"]:active .cat {
 
 #blog-container a {
   color: white;
-  font-size: 14vw;
+  font-size: 3vw;
   text-decoration: none;
   text-transform: lowercase;
 }
 #blog-container a:hover {
-  font-size: 16vw;
+  font-size: 3.2vw;
  color: #009572;
   font-weight: 700;
   text-transform: uppercase; 
 }
 #blog-container a:active {
-  font-size: 14vw;
+  font-size: 3vw;
   color: #009572;
   font-weight: 700;
   text-transform: uppercase;
@@ -192,13 +192,13 @@ input[type="button"]:active .cat {
   padding: 1rem;
 }
 data-title {
-  font-size: 18vw;
+  font-size: 3.6vw;
   text-align: left;
   color: #ededed;
 }
 data-title a {
   color: white;
-  font-size: 18vw;
+  font-size: 3.6vw;
   text-decoration: lowercase;
 }
 data-title a:hover {
@@ -218,13 +218,13 @@ data-subtext {
 }
 
 data-content ul li a {
-  font-size: 12vw;
+  font-size: 2.3vw;
   text-decoration: lowercase;
   color: #ffffff;
   margin-right: 1rem;
 }
 data-content a:hover {
-  font-size: 16vw;
+  font-size: 2.7vw;
   text-decoration: wavy;
   color: #009572;
   font-weight: 700;
@@ -236,7 +236,7 @@ data-content a:active {
   text-transform: uppercase;
 }
 #date {
-    font-size: 8vw;
+    font-size: 1.4vw;
     font-style: italic;
 }
 .btn-shine {
