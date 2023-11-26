@@ -186,13 +186,13 @@ input[type="button"]:active .cat {
   text-transform: uppercase;
 }
 data-title {
-  font-size: 24px;
+  font-size: 28px;
   text-align: left;
   color: #ededed;
 }
 data-title a {
   color: white;
-  font-size: 24px;
+  font-size: 28px;
   text-decoration: lowercase;
 }
 data-title a:hover {
