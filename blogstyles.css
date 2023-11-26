@@ -155,7 +155,7 @@ input[type="button"]:active .cat {
   text-transform: uppercase;
 }
 #blog-container {
-  font-size: 1.2vw;
+  font-size: 1.6vw;
   border: none;
   color: white;
   background-color: black;
@@ -172,18 +172,18 @@ input[type="button"]:active .cat {
 
 #blog-container a {
   color: white;
-  font-size: 1.4vw;
+  font-size: 1.8vw;
   text-decoration: none;
   text-transform: lowercase;
 }
 #blog-container a:hover {
-  font-size: 1.6vw;
+  font-size: 1.8vw;
  color: #009572;
   font-weight: 700;
   text-transform: uppercase; 
 }
 #blog-container a:active {
-  font-size: 1.2vw;
+  font-size: 1.8vw;
   color: #009572;
   font-weight: 700;
   text-transform: uppercase;
@@ -192,13 +192,13 @@ input[type="button"]:active .cat {
   padding: .2vw;
 }
 data-title {
-  font-size: 1.9vw;
+  font-size: 2.2vw;
   text-align: left;
   color: #ededed;
 }
 data-title a {
   color: white;
-  font-size: 1.9vw;
+  font-size: 2.2vw;
   text-decoration: lowercase;
 }
 data-title a:hover {
@@ -214,17 +214,17 @@ data-title a:active {
 data-subtext {
   color: #b6b6b5;
   display: block;
-  font-size: 1.6vw;
+  font-size: 1.8vw;
 }
 
 data-content ul li a {
-  font-size: 1.3vw;
+  font-size: 1.6vw;
   text-decoration: lowercase;
   color: #ffffff;
   margin-right: 1rem;
 }
 data-content a:hover {
-  font-size: 1.3vw;
+  font-size: 1.7vw;
   text-decoration: wavy;
   color: #009572;
   font-weight: 700;
@@ -236,7 +236,7 @@ data-content a:active {
   text-transform: uppercase;
 }
 #date {
-    font-size: .9vw;
+    font-size: 1.2vw;
     font-style: italic;
 }
 .btn-shine {
