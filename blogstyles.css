@@ -215,6 +215,7 @@ data-content ul li a {
   font-size: 18px;
   text-decoration: lowercase;
   color: #ffffff;
+  margin-right: .5rem;
 }
 data-content a:hover {
   font-size:large;
