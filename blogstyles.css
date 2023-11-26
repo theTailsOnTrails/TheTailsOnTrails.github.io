@@ -202,11 +202,12 @@ data-subtext {
 }
 
 data-content ul li a {
-  font-size: 12px;
+  font-size: 14px;
   text-decoration: none;
   color: #ffffff;
 }
 data-content a:hover {
+  font-size:large;
   text-decoration: wavy;
   color: #009572;
   font-weight: 700;
