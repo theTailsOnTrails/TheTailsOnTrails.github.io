@@ -160,7 +160,7 @@ input[type="button"]:active .cat {
   padding-left: 6%;
   padding-top: 0.2%;
   margin-left: .5rem;
-  margin-right: 1rem;
+  margin-right: 1.5rem;
   margin-top: 2%;
   margin-bottom: 6%;
   padding-bottom: 2px;
@@ -218,7 +218,7 @@ data-content ul li a {
   font-size: 18px;
   text-decoration: lowercase;
   color: #ffffff;
-  margin-right: .5rem;
+  margin-right: 1rem;
 }
 data-content a:hover {
   font-size:large;
@@ -226,8 +226,6 @@ data-content a:hover {
   color: #009572;
   font-weight: 700;
   text-transform: uppercase;
-  margin-right: .5rem;
-  margin-left: .25rem;
 }
 data-content a:active {
   color: #0088bd;
