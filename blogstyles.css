@@ -185,6 +185,9 @@ input[type="button"]:active .cat {
   font-weight: 700;
   text-transform: uppercase;
 }
+#blog-container td {
+  padding: 1rem;
+}
 data-title {
   font-size: 28px;
   text-align: left;
