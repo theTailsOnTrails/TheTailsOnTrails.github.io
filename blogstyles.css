@@ -167,33 +167,29 @@ input[type="button"]:active .cat {
   padding-right: .5rem;
 }
 
-#blog-container a, .revv a, .welcome a, .gobble a, .serenade a {
+#blog-container a {
   color: white;
   font-size: 14px;
   text-decoration: none;
   text-transform: lowercase;
 }
-#blog-container a:hover, .revv a:hover, .welcome a:hover, .gobble a:hover, .serenade a:hover {
+#blog-container a:hover {
   font-size: 16px;
   color: #009572;
   font-weight: 700;
   text-transform: uppercase;
 }
-#blog-container a:active, .revv a:active, .welcome a:active, .gobble a:active, .serenade a:active {
+#blog-container a:active {
   font-size: 12px;
   color: #009572;
   font-weight: 700;
   text-transform: uppercase;
 }
 
-:welcome, :revv, :serenade, :gobble {
-  data-content
-}
-
 data-title {
   font-size: 24px;
   text-align: left;
-  color: #939393;
+  color: #ededed;
 }
 data-title a {
   color: white;
@@ -207,17 +203,17 @@ data-subtext {
 }
 data-content {
     border: none;
-      color: white;
-        background-color: black;
-          text-align: left;
-            padding-left: 2%;
-              padding-top: 2%;
-                margin-top: 2%;
-                  margin-right: 1.5rem;
-                    margin-bottom: 0.6%;
-                      padding-bottom: 2px;
-                        padding-right: 2rem;
-                          text-decoration: lowercase;
+    color: white;
+    background-color: black;
+    text-align: left;
+    padding-left: 2%;
+    padding-top: 2%;
+    margin-top: 2%;
+    margin-right: 1.5rem;
+    margin-bottom: 0.6%;
+    padding-bottom: 2px;
+    padding-right: 2rem;
+    text-decoration: lowercase;
                           }
 data-content ul li a {
   font-size: 12px;
