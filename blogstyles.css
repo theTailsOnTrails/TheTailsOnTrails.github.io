@@ -214,17 +214,17 @@ data-title a:active {
 data-subtext {
   color: #b6b6b5;
   display: block;
-  font-size: 1.3vw;
+  font-size: 1.6vw;
 }
 
 data-content ul li a {
-  font-size: 1vw;
+  font-size: 1.3vw;
   text-decoration: lowercase;
   color: #ffffff;
   margin-right: 1rem;
 }
 data-content a:hover {
-  font-size: 1vw;
+  font-size: 1.3vw;
   text-decoration: wavy;
   color: #009572;
   font-weight: 700;
@@ -236,7 +236,7 @@ data-content a:active {
   text-transform: uppercase;
 }
 #date {
-    font-size: .6vw;
+    font-size: .9vw;
     font-style: italic;
 }
 .btn-shine {
