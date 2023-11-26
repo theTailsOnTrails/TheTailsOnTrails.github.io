@@ -126,7 +126,7 @@ input[type="button"]:active .cat {
   width:90%;
   color: #fff;
   padding: 0px;
-  font-size: 4.4vw;
+  font-size: 4.8vw;
 }
 #menu ul {
   list-style: none;
@@ -160,14 +160,14 @@ input[type="button"]:active .cat {
   color: white;
   background-color: black;
   text-align: left;
-  padding-left: 6%;
+  padding-left: 1vw;
   padding-top: 0.2%;
-  margin-left: .5rem;
-  margin-right: 2rem;
+  margin-left: 1vw;
+  margin-right: 1vw;
   margin-top: 2%;
   margin-bottom: 6%;
   padding-bottom: 2px;
-  padding-right: 8%;
+  padding-right: 1vw;
 }
 
 #blog-container a {
