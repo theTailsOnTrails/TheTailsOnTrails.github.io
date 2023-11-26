@@ -186,7 +186,7 @@ input[type="button"]:active .cat {
   text-transform: uppercase;
 }
 
-.revv, .welcome, .gobble, .serenade, {
+.revv, .welcome, .gobble, .serenade {
   border: none;
   color: white;
   background-color: black;
