@@ -185,7 +185,6 @@ input[type="button"]:active .cat {
   font-weight: 700;
   text-transform: uppercase;
 }
-
 data-title {
   font-size: 24px;
   text-align: left;
@@ -206,7 +205,6 @@ data-content ul li a {
   font-size: 12px;
   text-decoration: none;
   color: #ffffff;
-  width: 80%;
 }
 data-content a:hover {
   text-decoration: wavy;
