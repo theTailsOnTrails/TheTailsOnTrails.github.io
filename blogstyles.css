@@ -203,7 +203,7 @@ data-subtext {
 
 data-content ul li a {
   font-size: 14px;
-  text-decoration: none;
+  text-decoration: lowercase;
   color: #ffffff;
 }
 data-content a:hover {
