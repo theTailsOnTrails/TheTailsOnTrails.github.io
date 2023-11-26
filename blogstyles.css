@@ -167,26 +167,26 @@ input[type="button"]:active .cat {
   padding-right: .5rem;
 }
 
-#blog-container a {
+#blog-container a, .revv a, .welcome a, .gobble a, .serenade a {
   color: white;
   font-size: 14px;
   text-decoration: none;
   text-transform: lowercase;
 }
-#blog-container a:hover {
+#blog-container a:hover, .revv a:hover, .welcome a:hover, .gobble a:hover, .serenade a:hover {
   font-size: 16px;
   color: #009572;
   font-weight: 700;
   text-transform: uppercase;
 }
-#blog-container a:active {
+#blog-container a:active, .revv a:active, .welcome a:active, .gobble a:active, .serenade a:active {
   font-size: 12px;
   color: #009572;
   font-weight: 700;
   text-transform: uppercase;
 }
 
-.revv, .welcome, .gobble, .serenade {
+.revv, .welcome, .gobble, .serenade, {
   border: none;
   color: white;
   background-color: black;
