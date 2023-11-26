@@ -122,6 +122,7 @@ input[type="button"]:active .cat {
 
 #menu {
   background-color: #000000;
+  width:100%;
   color: #fff;
   padding: 0px;
 }
