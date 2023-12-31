@@ -124,37 +124,39 @@
          
           }
    
-          #menu {
-            background-color: #000000;
-            color: #fff;
-            padding: 0px;
-          }
-        #menu ul {
-            list-style: none;
-            padding-left: 0;
-        }
-        #menu ul li {
-            display: inline;
-            margin: 4px;
-        }
-        #menu ul li:last-child {
-            margin-right: 0;
-        }
-        #menu ul li a {
-            text-decoration: none;
-            color: #fff;
-        }
-        #menu a:hover {
-            text-decoration: wavy;
-            color:#009572;
-            font-weight: 700;
-            text-transform: uppercase;
-        }
-        #menu a:active {
-            color:#0088bd;
-            font-weight: 700;
-            text-transform: uppercase;
-        }
+    #menu {
+  background-color: #000000;
+  width: 100%;
+  color: #fff;
+  padding: 0px;
+  font-size: 3.6vw;
+}
+#menu ul {
+  list-style: none;
+  padding-left: 0;
+}
+#menu ul li {
+  display: inline;
+  margin: .4vw;
+}
+#menu ul li:last-child {
+  margin-right: 2vw;
+}
+#menu ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+#menu a:hover {
+  text-decoration: wavy;
+  color: #009572;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+#menu a:active {
+  color: #0088bd;
+  font-weight: 700;
+  text-transform: uppercase;
+}
         #blog-container {
             border-width: 1px;
             color: white;
